@@ -161,5 +161,9 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a106/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/micromax/a106/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/micromax/a106/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/micromax/a106/proprietary/vendor/lib/egl/libEGL_mali.so:system/vendor/egl/libEGL_mali.so \
+    vendor/micromax/a106/proprietary/vendor/lib/egl/libGLESv1_CM_mali.so:system/vendor/egl/libGLESv1_CM_mali.so \
+    vendor/micromax/a106/proprietary/vendor/lib/egl/libGLESv2_mali.so:system/vendor/egl/libGLESv2_mali.so \
+    vendor/micromax/a106/proprietary/vendor/manifest.xml:system/vendor/manifest.xml \
     vendor/micromax/a106/proprietary/xbin/mnld:system/xbin/mnld \
     vendor/micromax/a106/proprietary/lib/libstlport.so:system/lib/libstlport.so
