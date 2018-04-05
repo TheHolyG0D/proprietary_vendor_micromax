@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a106/proprietary/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
     vendor/micromax/a106/proprietary/bin/thermal_manager:system/bin/thermal_manager \
     vendor/micromax/a106/proprietary/bin/wmt_loader:system/bin/wmt_loader \
-    vendor/micromax/a106/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/micromax/a106/proprietary/etc/firmware/ROMv1_patch_1_0_hdr.bin:system/etc/firmware/ROMv1_patch_1_0_hdr.bin \
     vendor/micromax/a106/proprietary/etc/firmware/ROMv1_patch_1_1_hdr.bin:system/etc/firmware/ROMv1_patch_1_1_hdr.bin \
     vendor/micromax/a106/proprietary/etc/firmware/WIFI_RAM_CODE_SOC:system/etc/firmware/WIFI_RAM_CODE_SOC \
@@ -61,7 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a106/proprietary/lib/hw/gralloc.mt6582.so:system/lib/hw/gralloc.mt6582.so \
     vendor/micromax/a106/proprietary/lib/hw/hwcomposer.mt6582.so:system/lib/hw/hwcomposer.mt6582.so \
     vendor/micromax/a106/proprietary/lib/hw/lights.default.so:system/lib/hw/lights.default.so \
-    vendor/micromax/a106/proprietary/lib/hw/sensors.mt6582.so:system/lib/hw/sensors.mt6582.so \
+    vendor/micromax/a106/proprietary/lib/hw/sensors.mt6582.so:system/lib/sensors.mt6582.so \
     vendor/micromax/a106/proprietary/lib/hw/memtrack.mt6582.so:system/lib/hw/memtrack.mt6582.so \
     vendor/micromax/a106/proprietary/lib/hw/radio.fm.mt6582.so:system/lib/hw/radio.fm.mt6582.so \
     vendor/micromax/a106/proprietary/lib/lib3a.so:system/lib/lib3a.so \
