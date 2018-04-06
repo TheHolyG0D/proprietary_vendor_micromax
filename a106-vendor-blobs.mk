@@ -118,7 +118,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a106/proprietary/lib/libcamdrv.so:system/lib/libcamdrv.so \
     vendor/micromax/a106/proprietary/lib/libcamera_client_mtk.so:system/lib/libcamera_client_mtk.so \
     vendor/micromax/a106/proprietary/lib/libcameracustom.so:system/lib/libcameracustom.so \
-    vendor/micromax/a106/proprietary/lib/libcurl.so:system/lib/libcurl.so \
     vendor/micromax/a106/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
     vendor/micromax/a106/proprietary/lib/libcvsd_mtk.so:system/lib/libcvsd_mtk.so \
     vendor/micromax/a106/proprietary/lib/libdpframework.so:system/lib/libdpframework.so \
@@ -130,7 +129,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a106/proprietary/lib/libhwm.so:system/lib/libhwm.so \
     vendor/micromax/a106/proprietary/lib/libimageio.so:system/lib/libimageio.so \
     vendor/micromax/a106/proprietary/lib/libimageio_plat_drv.so:system/lib/libimageio_plat_drv.so \
-    vendor/micromax/a106/proprietary/lib/libion.so:system/lib/libion.so \
     vendor/micromax/a106/proprietary/lib/libion_mtk.so:system/lib/libion_mtk.so \
     vendor/micromax/a106/proprietary/lib/libm4u.so:system/lib/libm4u.so \
     vendor/micromax/a106/proprietary/lib/libmnl.so:system/lib/libmnl.so \
